@@ -13,7 +13,7 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
-package com.google.cloud.teleport.v2.mongodb.templates;
+package pubsubtobigquery;
 
 import static com.google.cloud.teleport.v2.utils.KMSUtils.maybeDecrypt;
 
